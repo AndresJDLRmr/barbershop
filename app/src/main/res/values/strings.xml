@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Barbershop</string>
+    <string name="bienvenidos">Bienvenidos a Barbershop</string>
+    <string name="home">Inicio</string>
+    <string name="btn_servicios">Servicios</string>
+    <string name="btn_citas">Citas</string>
+    <string name="btn_contacto">Contacto</string>
+    <string name="msj_informacion">Esta aplicación es para:</string>
+    <string name="part1">+ Conocer nuestros servicios </string>
+    <string name="part2">+ Agendar cita para corte </string>
+    <string name="btn_sesion">i</string>
+
+    <string name="servicios">Servicios</string>
+    <string name="corteNormal">Corte normal</string>
+    <string name="corteUrbano">Corte urbano</string>
+    <string name="corteFiguras">Figuras</string>
+    <string name="barba">Barba</string>
+    <string name="mascarrillas">Mascarrillas</string>
+    <string name="venta">Venta de ceras</string>
+
+    <string name="Citas">Citas</string>
+    <string name="nombre">Nombre</string>
+    <string name="hora">Horario</string>
+    <string name="Fecha">Fecha</string>
+    <string name="sucursal">Sucursal</string>
+    <string name="Aceptar">Agendar</string>
+
+    <string name="Sesion">Sesión</string>
+    <string name="usuario">Usuario</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="Iniciar">Iniciar sesión</string>
+
+
+    <string name="Contacto">Contacto</string>
+    <string name="tel">Telefono: </string>
+    <string name="numero">8311110000</string>
+    <string name="Ubicacion">Nuestra dirección es: </string>
+    <string name="direccion">calle #0000, colonia, Monterrey Nuevo León</string>
+    <string name="redes">Nuestras redes sociales</string>
+    <string name="insta">Instagram: @baarbershop</string>
+    <string name="face">Facebook: Barbershop</string>
+    <string name="barberia">Barberia</string>
+</resources>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>English</string>
+    <key>CFBundleDocumentTypes</key>
+    <array>
+      
+      <dict>
+        <key>CFBundleTypeExtensions</key>
+        <array>
+          <string>ipr</string>
+        </array>
+        <key>CFBundleTypeIconFile</key>
+        <string>studio.icns</string>
+        <key>CFBundleTypeName</key>
+        <string>Android Studio Project File</string>
+        <key>CFBundleTypeRole</key>
+        <string>Editor</string>
+      </dict>
+
+      <dict>
+        <key>CFBundleTypeExtensions</key>
+        <array>
+          <string>*</string>
+        </array>
+        <key>CFBundleTypeName</key>
+        <string>All documents</string>
+        <key>CFBundleTypeOSTypes</key>
+        <array>
+          <string>****</string>
+        </array>
+        <key>CFBundleTypeRole</key>
+        <string>Editor</string>
+        <key>LSTypeIsPackage</key>
+        <false/>
+      </dict>
+    </array>
+    <key>CFBundleExecutable</key>
+    <string>studio</string>
+    <key>CFBundleIconFile</key>
+    <string>studio.icns</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>Android Studio</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.google.android.studio</string>
+    <key>CFBundleSignature</key>
+    <string>????</string>
+    <key>CFBundleGetInfoString</key>
+    <string>Android Studio 2020.3, build AI-203.7717.56.2031.7678000. Copyright JetBrains s.r.o., (c) 2000-2021</string>
+    <key>CFBundleShortVersionString</key>
+    <string>2020.3</string>
+    <key>CFBundleVersion</key>
+    <string>AI-203.7717.56.2031.7678000</string>
+    <key>LSApplicationCategoryType</key>
+    <string>public.app-category.developer-tools</string>
+
+    <key>NSHighResolutionCapable</key>
+    <true/>
+
+    <key>NSSupportsAutomaticGraphicsSwitching</key>
+    <true/>
+
+    
+    <key>LSArchitecturePriority</key>
+    <array><string>x86_64</string></array>
+
+    <key>LSRequiresNativeExecution</key>
+    <string>YES</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>10.8</string>
+
+    
+      <key>CFBundleURLTypes</key>
+      <array>
+        <dict>
+          <key>CFBundleTypeRole</key>
+          <string>Editor</string>
+          <key>CFBundleURLName</key>
+          <string>Stacktrace</string>
+          <key>CFBundleURLSchemes</key>
+          <array>
+            <string>idea</string>
+          </array>
+        </dict>
+      </array>
+
+
+    <key>JVMOptions</key>
+    <dict>
+      <key>ClassPath</key>
+      <string>$APP_PACKAGE/Contents/lib/bootstrap.jar:$APP_PACKAGE/Contents/lib/extensions.jar:$APP_PACKAGE/Contents/lib/util.jar:$APP_PACKAGE/Contents/lib/jdom.jar:$APP_PACKAGE/Contents/lib/log4j.jar:$APP_PACKAGE/Contents/lib/jna.jar</string>
+
+      <key>JVMVersion</key>
+      <string>1.8*,1.8+</string>
+
+      <key>MainClass</key>
+      <string>com.intellij.idea.Main</string>
+      <key>Properties</key>
+      <dict>
+        
+        <key>idea.platform.prefix</key>
+        <string>AndroidStudio</string>
+
+        <key>idea.paths.selector</key>
+        <string>AndroidStudio2020.3</string>
+
+        <key>idea.executable</key>
+        <string>studio</string>
+
+        <key>idea.vendor.name</key>
+        <string>Google</string>
+
+
+        <key>idea.home.path</key>
+        <string>$APP_PACKAGE/Contents</string>
+      </dict>
+
+    </dict>
+    <key>NSCameraUsageDescription</key>
+    <string>An application in Android Studio requests access to the device's camera.</string>
+
+    <key>NSMicrophoneUsageDescription</key>
+    <string>An application in Android Studio requests access to the device's microphone.</string>
+
+    <key>NSLocationUsageDescription</key>
+    <string>An application in Android Studio requests access to the user's location information.</string>
+
+    <key>NSDesktopFolderUsageDescription</key>
+    <string>An application in Android Studio requests access to the user's Desktop folder.</string>
+
+    <key>NSDocumentsFolderUsageDescription</key>
+    <string>An application in Android Studio requests access to the user's Documents folder.</string>
+
+    <key>NSDownloadsFolderUsageDescription</key>
+    <string>An application in Android Studio requests access to the user's Downloads folder.</string>
+
+    <key>NSNetworkVolumesUsageDescription</key>
+    <string>An application in Android Studio requests access to files on a network volume.</string>
+
+    <key>NSRemovableVolumesUsageDescription</key>
+    <string>An application in Android Studio requests access to files on a removable volume.</string>
+  </dict>
+</plist>
